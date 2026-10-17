@@ -1,0 +1,10 @@
+{
+  "name": "Electrónica & Más EIRL",
+  "short_name": "E & MAS EIRL",
+  "description": "Sistema Web de Gestión Operativa y App Móvil PWA para Técnicos de Campo",
+  "start_url": "/field/agenda",
+  "display": "standalone",
+  "background_color": "#F4F6F6",
+  "theme_color": "#0D6950",
+  "orientation": "portrait"
+}
